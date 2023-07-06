@@ -1,0 +1,17 @@
+.table{
+   position:sticky;
+    width: 50%;
+
+    /* Para centrar usamos "auto" en la alineación horizontal */
+    margin: 0 auto;
+		/*Lo siguiente es para los bordes*/
+    border-collapse: collapse;
+}
+
+
+table,
+th,
+td {
+    border: 3px solid black;
+}
+    
